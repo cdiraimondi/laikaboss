@@ -66,7 +66,7 @@ Laika BOSS has been tested on the latest versions of CentOS and Ubuntu LTS
 	cd pyexiftool-master
 	python setup.py build
 	python setup.py install
-	wget https://github.com/erocarrera/pefile/archive/pefile-1.2.10-139.tar.gz
+	wget http://pkgs.fedoraproject.org/repo/pkgs/python-pefile/pefile-1.2.10-139.tar.gz/f10a94320bfaca356fff4d28c41e9278/pefile-1.2.10-139.tar.gz
 	tar vxzf pefile-1.2.10-139.tar.gz
 	cd pefile-1.2.10-139
 	python setup.py build
